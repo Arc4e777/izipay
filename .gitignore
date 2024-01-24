@@ -1,0 +1,9 @@
+.env
+
+.DS_Store
+*.log
+*.pyc
+__pycache__
+
+app/static/
+app/media/

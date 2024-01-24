@@ -1,0 +1,11 @@
+django
+djangorestframework
+djangorestframework-api-key
+gunicorn
+
+psycopg2-binary
+django-redis
+
+requests
+base58
+tronpy
